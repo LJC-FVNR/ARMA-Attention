@@ -1,0 +1,9 @@
+/runs
+/results
+/test_results
+/logs
+/checkpoints
+/.ipynb_checkpoints
+tensorb.log
+result.txt
+nohup.txt
