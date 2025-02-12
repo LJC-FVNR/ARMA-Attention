@@ -1,4 +1,4 @@
-# WAVE: Weighted Autoregressive Varing Gate for Time Series Forecasting
+# WAVE: Weighted Autoregressive Varying Gate for Time Series Forecasting
 
 This is the official implementation of the **pure AR/WAVE Transformers**, introduced in the paper [WAVE Attention Mechanisms](https://arxiv.org/abs/2410.03159). The core model is located in `models/Autoregressive.py`. The repository includes various attention mechanisms, with aliases corresponding to each method used in the provided code and scripts as follows:
 
